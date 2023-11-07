@@ -1,0 +1,12 @@
+.modal-sheet .modal-dialog {
+    width: 380px;
+    transition: bottom .75s ease-in-out;
+  }
+  .modal-sheet .modal-footer {
+    padding-bottom: 2rem;
+  }
+  body {
+    background-image: url('/img/wallpape.gif');
+    background-size:cover; /* Ajuste o tamanho do plano de fundo */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+  }
